@@ -18,6 +18,13 @@
   - [2.3 创建行为实验 信任博弈（Trust Game）](https://github.com/Shinepans/otree_docs_CN/wiki/2.3-%E5%88%9B%E5%BB%BA%E8%A1%8C%E4%B8%BA%E5%AE%9E%E9%AA%8C---%E4%BF%A1%E4%BB%BB%E5%8D%9A%E5%BC%88%EF%BC%88Trust-Game%EF%BC%89)
   - [2.4 创建实验 匹配便士实验(Matching Pennies)](https://github.com/Shinepans/otree_docs_CN/wiki/2.4-%E5%88%9B%E5%BB%BA%E8%AF%95%E9%AA%8C---%E5%8C%B9%E9%85%8D%E4%BE%BF%E5%A3%AB%E8%AF%95%E9%AA%8C)
 - [3.概念概述](#)
+  - [3.1 会话(Sessions)](https://github.com/Shinepans/otree_docs_CN/wiki/3.1-%E4%BC%9A%E8%AF%9D(Sessions))
+  - [3.2 子会话(Subsessions)](https://github.com/Shinepans/otree_docs_CN/wiki/3.2-%E5%AD%90%E4%BC%9A%E8%AF%9D(Subsessions))
+  - [3.3 组(Groups)](https://github.com/Shinepans/otree_docs_CN/wiki/3.3-%E7%BB%84(Groups))
+  - [3.4 对象层次结构](https://github.com/Shinepans/otree_docs_CN/wiki/3.4-%E5%AF%B9%E8%B1%A1%E5%B1%82%E6%AC%A1%E7%BB%93%E6%9E%84)
+  - [3.5 参与者(Participants)](https://github.com/Shinepans/otree_docs_CN/wiki/3.5-%E5%8F%82%E4%B8%8E%E8%80%85(Participants))
+  - [3.6 什么是"self"](https://github.com/Shinepans/otree_docs_CN/wiki/3.6-%E4%BB%80%E4%B9%88%E6%98%AF%22self%22%3F)
+  - [3.7 self 扩展](https://github.com/Shinepans/otree_docs_CN/wiki/3.7-%22self%22%E6%89%A9%E5%B1%95)
 - [4.模型](#)
 - [5.视图](#)
 - [6.模板](#)
@@ -34,8 +41,6 @@
 - [17.AWS](#)
 - [18.设置](#)
 - [19.其他](#)
-
-
 ## see wiki page:
 
 [chinese docs for otree](https://github.com/Shinepans/otree_docs_CN/wiki)
